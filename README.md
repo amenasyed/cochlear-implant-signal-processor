@@ -14,4 +14,4 @@ Files:
 - output_files.zip (final output files)
 
 Filter Design
-<img width="938" alt="43030855-7394cdb8-8c64-11e8-987d-3579021c74fb" src="https://user-images.githubusercontent.com/80727252/189493075-a47c7655-424a-4076-bf57-295db77faf5c.png">
+<img width="750" alt="43030855-7394cdb8-8c64-11e8-987d-3579021c74fb" src="https://user-images.githubusercontent.com/80727252/189493075-a47c7655-424a-4076-bf57-295db77faf5c.png">
